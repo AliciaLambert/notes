@@ -6,3 +6,7 @@
 - Pusher avec GitHub desktop
 
 Combiner GitHub et Typora
+
+## Workflow simple
+
+- Quelqu'un·e modifie et tu récupère avec _github desktop_
