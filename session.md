@@ -1,3 +1,11 @@
+
+# Session du 03/10/2018
+
+- slack : inviter tout le monde
+- Github : 
+  - publier sur PO
+  - révision
+
 # Session du 29/09/2018
 
 - Ajouter un repo avec Github desktop
