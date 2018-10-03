@@ -1,7 +1,9 @@
 
 # Session du 03/10/2018
 
-- slack : inviter tout le monde
+- slack :
+  - inviter tout le monde
+  - créer une chaine privée
 - Github : 
   - publier sur PO
   - révision
